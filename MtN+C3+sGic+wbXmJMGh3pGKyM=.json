@@ -1,7 +1,7 @@
 {
-    "pluginStatus": false,
-    "isPaid": false,
-    "communityName": "Los Santos County RP",
+    "pluginStatus": true,
+    "isPaid": true,
+    "communityName": "SAPR",
     "betaCommunity": false,
     "features": {
         "inGameInterface": true,
@@ -10,8 +10,8 @@
     },
     "talkAroundRange": 1500,
     "betaServerGroups": [""],
-    "dispatchServerGroups": ["7133"],
-    "dispatchAdvancedServerGroups": ["7133"],
+    "dispatchServerGroups": ["1"],
+    "dispatchAdvancedServerGroups": ["1"],
     "dispatchNameTags": [
         "(P)",
         "(S)",
@@ -28,8 +28,8 @@
     ],
     "civilianServerGroups": [""],
     "civChannels": [0],
-    "radioSystems": [7226],
-    "rtoChannels": [7227],
+    "radioSystems": [1],
+    "rtoChannels": [1],
     "radioChannels": [
         {
             "id": 3,
@@ -41,78 +41,6 @@
             "talkAround": false,
             "scannable": true,
             "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 4,
-            "name": "Law Enforcement 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Law Enforcement 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 5,
-            "name": "Law Enforcement 3",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=green]Law Enforcement 3[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 6,
-            "name": "Fire Operations",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=yellow]Fire Ops[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": false,
-            "permission": 1
-        },
-        {
-            "id": 7,
-            "name": "Tac 1",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 1[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 8,
-            "name": "Tac 2",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 2[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
-            "permission": 1
-        },
-        {
-            "id": 9,
-            "name": "Tac 3",
-            "soundName": "",
-            "type": "LEO",
-            "coloredName": "[color=purple]Tac 3[/color]",
-            "talkEnforcement": true,
-            "talkAround": false,
-            "scannable": true,
-            "encrypted": true,
             "permission": 1
         }
     ],
@@ -138,16 +66,16 @@
             "serverGroupList": [""]
         },
         "permStaff": {
-            "serverGroupList": ["7093"]
+            "serverGroupList": ["2"]
         },
         "permSenior": {
-            "serverGroupList": ["7102"]
+            "serverGroupList": ["1"]
         },
         "permAdmin": {
-            "serverGroupList": ["7108"]
+            "serverGroupList": ["1"]
         },
         "permSuper": {
-            "serverGroupList": ["7101"]
+            "serverGroupList": ["1"]
         }
     }
 }
